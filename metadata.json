@@ -1,0 +1,6 @@
+{
+  "name": "Pixel Buds 2a Battery Widget",
+  "description": "Customizable Pixel 9 battery widget for Pixel Buds 2a with individual L/R/Case levels, charging states, custom colors, and transparency.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
